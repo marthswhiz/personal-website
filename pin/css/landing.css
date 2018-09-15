@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image:url("file:///C:/Users/user/Desktop/personal%20website/pin/images/backed.jpg");
+}
+.menubar{
+    background: black;
+    width: 100%;
+}
+.container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 80px;
+    text-decoration: none;
+    color: #38a5fde3;
+    padding: 10px;
+    margin: 3px; 
+    font-size: 20px;
+    font-weight: 700;
+}
+ul{
+    width:100vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    list-style-type: none;
+}
+.log{
+    color: #38a5fde3;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+li{
+    padding: 0px;
+    margin: 0px;
+}
+li a{
+    text-decoration: none;
+    color: #38a5fde3;
+}
+#pin{
+    width: 30vh;
+    border-radius: 50%;
+}
+#search{
+    border-radius: 10%;
+    border-color: none;
+    font-style: italic;
+}
