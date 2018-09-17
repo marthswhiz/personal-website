@@ -55,3 +55,7 @@ li a{
     border-color: none;
     font-style: italic;
 }
+button{
+    block-size: 50px;
+    color: #38a5fde3;
+}
