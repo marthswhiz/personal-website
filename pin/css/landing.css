@@ -4,7 +4,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-image:url("file:///C:/Users/user/Desktop/personal%20website/pin/images/backed.jpg");
+    background-image:url("/pin/images/backed.jpg");
 }
 .menubar{
     background: black;
